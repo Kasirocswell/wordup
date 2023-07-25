@@ -6,8 +6,8 @@ export default function Socials() {
       <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
         <Image
           src="/IG.png"
-          width={50}
-          height={80}
+          width={44}
+          height={74}
           layout="fixed"
           alt="Picture of Instagram logo"
         />
