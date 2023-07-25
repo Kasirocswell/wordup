@@ -23,14 +23,14 @@ export default function Home() {
       className="bg-no-repeat bg-center mt-[-25px] h-screen flex flex-col"
       style={{ backgroundImage: "url(/IMG_5003.jpg)" }}
     >
-      <div className="pt-[65px]">
+      <div className="pt-[65px] z-20">
         <Main />
       </div>
 
       <div className="mt-[-50px] z-10">
         <Scene />
       </div>
-      <div className="bottom-0 pt-[25px]">
+      <div className="bottom-0 pt-[25px] z-20">
         <Navabar />
       </div>
     </div>
